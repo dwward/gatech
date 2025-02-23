@@ -1,0 +1,12 @@
+---
+:id: 34153760
+:submitters:
+- :name: Donald W Ward
+  :email: dwward@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-10 00:35:00.341583000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-09 17:35:00.341583000 Z
+:status: processed
+:score: 100.0
